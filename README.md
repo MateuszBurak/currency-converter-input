@@ -9,12 +9,10 @@ This project is a part of my learning process of becomming a Frontend developer.
 
 ## Currency converter - input - April 29th, 2023
 
-[Link to the converter](https://mateuszburak.github.io/currency-converter-switch/) |
-[Link to the converter's repository](https://github.com/MateuszBurak/currency-converter-switch)
+[Link to the converter](https://mateuszburak.github.io/currency-converter-input/) |
+[Link to the converter's repository](https://github.com/MateuszBurak/currency-converter-input)
 
 This simple converter does not use api, as it's mostly meant to practice the *input* element
-
-Other than that, it's a pretty simple code.
 
 ```javascript
 formElement.addEventListener("input", () => {
