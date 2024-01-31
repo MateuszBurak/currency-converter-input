@@ -1,4 +1,4 @@
-# Mateusz Burak - simple currency converter
+# Mateusz Burak - simple currency converter using *input*
 
 ## Homepage and portfolio
 
