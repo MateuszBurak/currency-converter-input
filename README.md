@@ -1,12 +1,5 @@
 # Mateusz Burak - simple currency converter using *input*
 
-## Homepage and portfolio
-
-This project is a part of my learning process of becomming a Frontend developer. You can check the main homepage below.
-
-[Link to the homepage](https://mateuszburak.github.io/Public-homepage/) |
-[Link to the homepage's repository](https://github.com/MateuszBurak/Public-homepage)
-
 ## Currency converter - input - April 29th, 2023
 
 [Link to the converter](https://mateuszburak.github.io/currency-converter-input/) |
