@@ -45,8 +45,8 @@ It's code consists of 3 functions:
                 return amount / currencyGBP;
         }
     }
-'''
-'''javascript
+```
+```javascript
 const calculateResult = () => {
 
         const amountElement = document.querySelector(".js-amount");
@@ -59,9 +59,9 @@ const calculateResult = () => {
 
         resultElement.innerText = result.toFixed(2);
     }
-'''
+```
 
-'''javascript
+```javascript
     const init = () => {
 
         const formElement = document.querySelector(".js-form");
