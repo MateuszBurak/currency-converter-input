@@ -11,7 +11,7 @@ This converter converts currency values from PLN to EUR, USD and GBP. It follows
 
 To use it, simply input the amount and choose the currency you want the outcome to be in.
 
-![Animated gif of the site and its functions]("images/inputAnimation.gif")
+![Animated gif of the site and its functions](images/inputAnimation.gif)
 
 ## Code
 
