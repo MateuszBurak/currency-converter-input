@@ -4,10 +4,10 @@ let currencyElement = document.querySelector(".js-currency");
 let resultElement = document.querySelector(".js-result");
 let signElement = document.querySelector(".js-sign");
 
-formElement.addEventListener("input", () => {
+let calculateResult = () => {
 
     let amount = amountElement.value;
-    let currency = currencyElement.value;
+    const currency = currencyElement.value;
     let result = resultElement.value;
 
     let currencyEUR = 4.63;
@@ -30,4 +30,6 @@ formElement.addEventListener("input", () => {
     }
 
     resultElement.innerText = result.toFixed(2);
-})
+}
+
+formElement.addEventListener("input", calculateResult)
